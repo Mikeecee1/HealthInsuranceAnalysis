@@ -9,7 +9,6 @@ This project analyzes health insurance data to understand the impact of various 
 
 ## Conclusions
 
-Conclusions
 Smoking status and BMI are the strongest predictors of high medical charges, with smokers and those classified as obese incurring the highest costs.
 Age consistently influences charges, but its effect is amplified when combined with smoking or high BMI.
 Regional and sex differences exist, but their impact is less pronounced compared to BMI and smoking.
