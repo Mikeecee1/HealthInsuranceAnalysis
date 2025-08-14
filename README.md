@@ -40,7 +40,6 @@ I used various sources when looking at BMI data, particularly;
  [American Cancer Society BMI Index](https://www.cancer.org/cancer/risk-prevention/diet-physical-activity/body-weight-and-cancer-risk/body-mass-index-bmi-calculator.html)
 
  and also,
- [UHB NHS Trust]
 (https://therapies.heartofengland.nhs.uk/wp-content/uploads/bmi_chart.pdf)
 
 
