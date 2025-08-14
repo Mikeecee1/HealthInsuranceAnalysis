@@ -45,11 +45,11 @@ I used various sources when looking at BMI data, particularly;
 
 ## Challenges ##
 
-The data cleaning phase of the project was relatively straightforward, as the csv used was largely already cleaned. The biggest decisions were which columns to drop (Children), and which columns to transform, generally from categorical to numerical. Some of these I later changed back to facilitate visualisation phase. I also added a column to categorise BMI (in line with known guidelines, see below).
+The data cleaning phase of the project was relatively straightforward, as the csv used was largely already cleaned. The biggest decisions were which columns to drop (Children), and which columns to transform, generally from categorical to numerical. Some of these I later changed back to facilitate visualisation phase. I also added a column to categorise BMI (in line with known guidelines, see above).
 
-I had some challenges during the visualisation face but was able to satisfactorily overcome these. The biggest challenge was to decide which visualitions would best suit my project aims, and where necessary how to format data. I also had two minor technical difficulties:
+I had some challenges during the visualisation face but was able to satisfactorily overcome these. The biggest challenge was to decide which visualitions would best suit my project aims, and where necessary how to format data. I also had three minor technical difficulties:
 
-* filepaths would sometimes become broken (caused by changes to working directory I belive)
+* filepaths would sometimes become broken (caused by changes to working directory I believe)
 * I have included plotly screenshots in this README but was unable to show them within the DataVisualisation notebook (again a filepath problem)
 * I found it difficult to label some visualisations as I would like, though was largely able to resolve this.
 
