@@ -25,9 +25,9 @@ These insights can inform healthcare policy, risk assessment, and targeted inter
 * BMI can sometimes be a crude measure (for instance heavily muscled athletes may be classified as obese). It may also be used to stigmatise
 
 ### Screenshots for plotly
-![Charges by Region and sex showing smoker status](Datasets/Screenshots/plotly1.png)
+![Charges by Region and sex showing smoker status](Datasets/Screenshots/charges_smoker.png)
 
-![Charges by Region and sex showing BMI category](Datasets/Screenshots/plotly2.png)
+![Charges by Region and sex showing BMI category](Datasets/Screenshots/charges_region.png)
 
 ![sunburst showing factors contributing to health costs](Datasets/Screenshots/sunburst.png)
 
