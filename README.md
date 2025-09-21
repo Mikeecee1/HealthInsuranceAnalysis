@@ -39,8 +39,7 @@ I used various sources when looking at BMI data, particularly;
 
  [American Cancer Society BMI Index](https://www.cancer.org/cancer/risk-prevention/diet-physical-activity/body-weight-and-cancer-risk/body-mass-index-bmi-calculator.html)
 
- and also,
-(https://therapies.heartofengland.nhs.uk/wp-content/uploads/bmi_chart.pdf)
+ and [NHS BMI](https://therapies.heartofengland.nhs.uk/wp-content/uploads/bmi_chart.pdf)
 
 
 ## Challenges ##
@@ -49,8 +48,8 @@ The data cleaning phase of the project was relatively straightforward, as the cs
 
 I had some challenges during the visualisation face but was able to satisfactorily overcome these. The biggest challenge was to decide which visualitions would best suit my project aims, and where necessary how to format data. I also had three minor technical difficulties:
 
-* filepaths would sometimes become broken (caused by changes to working directory I believe)
-* I have included plotly screenshots in this README but was unable to show them within the DataVisualisation notebook (again a filepath problem)
+* filepaths would sometimes become broken - Fixed
+* I have included plotly screenshots in this README but was unable to show them within the DataVisualisation notebook - Fixed
 * I found it difficult to label some visualisations as I would like, though was largely able to resolve this.
 
 ## Technical Information ##
@@ -58,6 +57,6 @@ I had some challenges during the visualisation face but was able to satisfactori
 The technologies used included Jupyter notebooks for data analysis using Pandas, seaborn and numpy to view and manipulate data and also Feature_engine for cleaning data.
 Matplotlib, Seaborn and Plotly were used to visualise data
 I used Gitub Copilot to explain and amend some complex code, though generally I was able to complete the code myself.
-I also used Copilot to help summarise some information.
+I also used Copilot to help summarise some information and comment code where necessary.
 The project was developed in VSCode using a virtual environment (see requirements.txt for a full list of packages used)
 
